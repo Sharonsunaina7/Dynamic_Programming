@@ -2,6 +2,8 @@
 Counting ways to build good strings
 # Counting Ways to Build Good Strings | Dynamic Programming Approach
 
+Leet Code Problem (https://leetcode.com/problems/count-ways-to-build-good-strings/solutions/6204082/count-ways-to-build-good-strings-dynamic-i7gj)
+
 ## Problem Statement
 Given the integers `zero`, `one`, `low`, and `high`, you can construct a string by starting with an empty string, and then at each step perform either of the following:
 
